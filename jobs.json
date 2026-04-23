@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Data Analyst",
+    "skills": ["Python", "SQL"],
+    "salary": 600000,
+    "location": "Delhi",
+    "company": "TCS"
+  },
+  {
+    "title": "ML Engineer",
+    "skills": ["Python", "ML"],
+    "salary": 1200000,
+    "location": "Bangalore",
+    "company": "Infosys"
+  }
+]
